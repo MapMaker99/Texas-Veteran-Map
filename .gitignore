@@ -1,0 +1,10 @@
+# Ignore all Python source files
+*.py
+# Ignore the environment folder
+venv/
+# Ignore the CSV data files
+*.csv
+# Ignore the downloaded shapefile folder
+data/
+# Ignore the zip file
+*.zip
